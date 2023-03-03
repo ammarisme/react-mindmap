@@ -16,8 +16,8 @@ jobs:
         aws-region: us-east-1 # Use your bucket region here
         
     # Here you could add some building steps if you were dealing with some angular/react/Vue...
-    - name: Build static site
-      run: yarn install && yarn run build
+    #- name: Build static site
+    #  run: yarn install && yarn run build
     
     - name: Deploy static site to S3 bucket
       run: aws s3 sync ./build s3://ammarsite --delete
