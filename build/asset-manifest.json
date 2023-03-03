@@ -1,0 +1,29 @@
+{
+  "files": {
+    "chunk-blinkmind.css": "/react-mindmap/static/css/chunk-blinkmind.1f97ab68.chunk.css",
+    "chunk-blinkmind.js": "/react-mindmap/static/js/chunk-blinkmind.caece48e.chunk.js",
+    "chunk-blinkmind.js.map": "/react-mindmap/static/js/chunk-blinkmind.caece48e.chunk.js.map",
+    "chunk-blueprint.css": "/react-mindmap/static/css/chunk-blueprint.5faab667.chunk.css",
+    "chunk-blueprint.js": "/react-mindmap/static/js/chunk-blueprint.df4a8855.chunk.js",
+    "chunk-blueprint.js.map": "/react-mindmap/static/js/chunk-blueprint.df4a8855.chunk.js.map",
+    "chunk-libs.js": "/react-mindmap/static/js/chunk-libs.c0686724.chunk.js",
+    "chunk-libs.js.map": "/react-mindmap/static/js/chunk-libs.c0686724.chunk.js.map",
+    "chunk-slate.js": "/react-mindmap/static/js/chunk-slate.16a36f6a.chunk.js",
+    "chunk-slate.js.map": "/react-mindmap/static/js/chunk-slate.16a36f6a.chunk.js.map",
+    "main.js": "/react-mindmap/static/js/main.8f0c8d64.chunk.js",
+    "main.js.map": "/react-mindmap/static/js/main.8f0c8d64.chunk.js.map",
+    "runtime~main.js": "/react-mindmap/static/js/runtime~main.f9059278.js",
+    "runtime~main.js.map": "/react-mindmap/static/js/runtime~main.f9059278.js.map",
+    "index.html": "/react-mindmap/index.html",
+    "precache-manifest.5abeb05d32e0ff6593d1ac90f12e386b.js": "/react-mindmap/precache-manifest.5abeb05d32e0ff6593d1ac90f12e386b.js",
+    "service-worker.js": "/react-mindmap/service-worker.js",
+    "static/css/chunk-blinkmind.1f97ab68.chunk.css.map": "/react-mindmap/static/css/chunk-blinkmind.1f97ab68.chunk.css.map",
+    "static/css/chunk-blueprint.5faab667.chunk.css.map": "/react-mindmap/static/css/chunk-blueprint.5faab667.chunk.css.map",
+    "static/media/default.jpg": "/react-mindmap/static/media/default.4f8c4983.jpg",
+    "static/media/iconfont.css": "/react-mindmap/static/media/iconfont.e740c559.ttf",
+    "static/media/theme1.jpg": "/react-mindmap/static/media/theme1.2f59f00b.jpg",
+    "static/media/theme2.jpg": "/react-mindmap/static/media/theme2.b18193fb.jpg",
+    "static/media/theme3.jpg": "/react-mindmap/static/media/theme3.61c97910.jpg",
+    "static/media/theme4.jpg": "/react-mindmap/static/media/theme4.1e21408c.jpg"
+  }
+}
