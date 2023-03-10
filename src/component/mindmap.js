@@ -87,7 +87,7 @@ export class Mindmap extends React.Component {
 
   render() {
     return (
-      <div className="mindmap">
+      <div className="mindmap"  style={{width:"75vw",float:"right"}}>
         {this.diagram && this.renderToolbar()}
         {this.renderDiagram()}
       </div>
